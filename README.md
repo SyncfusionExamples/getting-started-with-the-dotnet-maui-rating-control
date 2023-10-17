@@ -112,7 +112,7 @@ The Rating control in .NET MAUI allows the use of both predefined shapes and cus
 
 [Documentation](https://help.syncfusion.com/maui/rating/getting-started?utm_source=github&utm_medium=listing&utm_campaign=maui-rating-github-samples) 
 
-[View Demos](https://github.com/syncfusion/maui-demos/tree/master/MAUI/Inputs/SampleBrowser.Maui.Inputs/Samples/Rating/RatingGettingStarted/?utm_source=github&utm_medium=listing&utm_campaign=maui-rating-github-samples) 
+[View Demos](https://github.com/syncfusion/maui-demos/tree/master/MAUI/Inputs/SampleBrowser.Maui.Inputs/Samples/Rating?utm_source=github&utm_medium=listing&utm_campaign=maui-rating-github-samples) 
 
 [Community Forums](https://www.syncfusion.com/forums/maui?utm_source=github&utm_medium=listing&utm_campaign=maui-rating-github-samples)
 
