@@ -1,8 +1,6 @@
 # Getting Started with the .NET MAUI Rating Control
 
-A quick-start project that helps you to integrate a MAUI Rating control in the .NET MAUI application.This project contains code to change the control’s precision mode, modify the rating item shape, restrict interaction in the control, and customize its appearance.
-
-Documentation: https://help.syncfusion.com/maui/rating/getting-started
+The [.NET MAUI Rating](https://www.syncfusion.com/maui-controls/maui-rating) control allows users to select a rating value from a group of visual symbols like stars, hearts, or custom shapes.
 
 ## Project pre-requisites
 
@@ -30,6 +28,42 @@ To run this application, you need to first clone the getting-started-with-the-do
 4. Set any one of the platform specific projects (iOS, Android or UWP) as a start-up project.
 5. Clean and build the application.
 6. Run the application.
+
+## Features and Benefits
+
+## Precision
+
+The .NET MAUI Rating control supports precise ratings to handle full, half, or exact values.
+
+## Rating shapes
+
+The Rating control in .NET MAUI allows the use of both predefined shapes and custom shapes.
+
+## Set as read-only
+
+The .NET MAUI Rating control can also be used in a read-only state. In this mode, users cannot interact with the control.
+
+## Customization
+
+The .NET MAUI Rating control supports customizing the item color, item border color, spacing, selection color, and more, enabling the items to fit the application theme.
+
+## Related links
+[Learn More about .NET MAUI Rating](https://www.syncfusion.com/maui-controls/maui-rating?utm_source=github&utm_medium=listing&utm_campaign=maui-rating-github-samples)
+[Download Free Trial](https://www.syncfusion.com/downloads/maui/confirm?utm_source=github&utm_medium=listing&utm_campaign=maui-rating-github-samples)
+[Pricing](https://www.syncfusion.com/sales/teamlicense?utm_source=github&utm_medium=listing&utm_campaign=maui-rating-github-samples)
+[Documentation](https://help.syncfusion.com/maui/rating/getting-started?utm_source=github&utm_medium=listing&utm_campaign=maui-rating-github-samples)
+[View Demos](https://github.com/syncfusion/maui-demos/tree/master/MAUI/Inputs/SampleBrowser.Maui.Inputs/Samples/Rating)
+[Community Forums](https://www.syncfusion.com/forums/maui?control=rating?utm_source=github&utm_medium=listing&utm_campaign=maui-rating-github-samples)
+[Suggest a feature or report a bug](https://www.syncfusion.com/feedback/maui?control=sfrating?utm_source=github&utm_medium=listing&utm_campaign=maui-rating-github-samples)
+[Online example](https://github.com/SyncfusionExamples/https://github.com/SyncfusionExamples/getting-started-with-the-dotnet-maui-rating-control?utm_source=github&utm_medium=listing&utm_campaign=maui-rating-github-samples)
+
+## About Syncfusion .NET MAUI Rating Control
+The Syncfusion's [.NET MAUI Rating Control](https://www.syncfusion.com/maui-controls/maui-rating?utm_source=github&utm_medium=listing&utm_campaign=maui-rating-github-samples) library offers over 90 UI components to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to Speed Dial, we provide popular Blazor Components such as [DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid?utm_source=github&utm_medium=listing&utm_campaign=blazor-speed-dial-github-samples), [Charts](https://www.syncfusion.com/blazor-components/blazor-charts?utm_source=github&utm_medium=listing&utm_campaign=blazor-speed-dial-github-samples), [Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler?utm_source=github&utm_medium=listing&utm_campaign=blazor-speed-dial-github-samples), [Diagram](https://www.syncfusion.com/blazor-components/blazor-diagram?utm_source=github&utm_medium=listing&utm_campaign=blazor-speed-dial-github-samples), and [Word Processor](https://www.syncfusion.com/blazor-components/blazor-word-processor?utm_source=github&utm_medium=listing&utm_campaign=blazor-speed-dial-github-samples).
+
+### About Syncfusion
+Founded in 2001 and headquartered in Research Triangle Park, N.C., Syncfusion has more than 29,000 customers and more than 1 million users, including large financial institutions, Fortune 500 companies, and global IT consultancies.
+
+Today, we provide 1800+ components and frameworks for web ([Blazor](https://www.syncfusion.com/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-speed-dial-github-samples), [ASP.NET Core](https://www.syncfusion.com/aspnet-core-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=blazor-speed-dial-github-samples), [ASP.NET MVC](https://www.syncfusion.com/aspnet-mvc-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=blazor-speed-dial-github-samples), [ASP.NET WebForms](https://www.syncfusion.com/jquery/aspnet-webforms-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=blazor-speed-dial-github-samples), [JavaScript](https://www.syncfusion.com/javascript-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=blazor-speed-dial-github-samples), [Angular](https://www.syncfusion.com/angular-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-speed-dial-github-samples), [React](https://www.syncfusion.com/react-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-speed-dial-github-samples), [Vue](https://www.syncfusion.com/vue-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-speed-dial-github-samples), and [Flutter](https://www.syncfusion.com/flutter-widgets?utm_source=github&utm_medium=listing&utm_campaign=blazor-speed-dial-github-samples)), mobile ([Xamarin](https://www.syncfusion.com/xamarin-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=blazor-speed-dial-github-samples), [Flutter](https://www.syncfusion.com/flutter-widgets?utm_source=github&utm_medium=listing&utm_campaign=blazor-speed-dial-github-samples), [UWP](https://www.syncfusion.com/uwp-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=blazor-speed-dial-github-samples), [JavaScript](https://www.syncfusion.com/javascript-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=blazor-speed-dial-github-samples), and [.NET MAUI](https://www.syncfusion.com/maui-controls?utm_source=github&utm_medium=listing&utm_campaign=blazor-speed-dial-github-samples)), and desktop development ([WinForms](https://www.syncfusion.com/winforms-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=blazor-speed-dial-github-samples), [WPF](https://www.syncfusion.com/wpf-controls?utm_source=github&utm_medium=listing&utm_campaign=blazor-speed-dial-github-samples), [WinUI](https://www.syncfusion.com/winui-controls?utm_source=github&utm_medium=listing&utm_campaign=blazor-speed-dial-github-samples), [Flutter](https://www.syncfusion.com/flutter-widgets?utm_source=github&utm_medium=listing&utm_campaign=blazor-speed-dial-github-samples), [UWP](https://www.syncfusion.com/uwp-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=blazor-speed-dial-github-samples), and [.NET MAUI](https://www.syncfusion.com/maui-controls?utm_source=github&utm_medium=listing&utm_campaign=blazor-speed-dial-github-samples)). We provide ready-to-deploy enterprise software for dashboards, reports, data integration, and big data processing. Many customers have saved millions in licensing fees by deploying our software.
 
 ## License
 
