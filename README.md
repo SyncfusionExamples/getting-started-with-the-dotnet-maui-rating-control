@@ -1,6 +1,6 @@
 # Getting Started with the .NET MAUI Rating Control
 
-The [.NET MAUI Rating](https://www.syncfusion.com/maui-controls/maui-rating?utm_source=github&utm_medium=listing&utm_campaign=maui-rating-github-samples) control allows users to select a rating value from a group of visual symbols like stars, hearts, or custom shapes.
+The [.NET MAUI Rating](https://www.syncfusion.com/maui-controls/maui-rating?utm_source=github&utm_medium=listing&utm_campaign=maui-rating-github-samples) control allows users to select a rating value from a group of visual symbols like stars, hearts, or custom shapes. A quick-start project that helps you to integrate a MAUI Rating control in the .NET MAUI application.This project contains code to change the control’s precision mode, modify the rating item shape, restrict interaction in the control, and customize its appearance.
 
 ## Project pre-requisites
 
@@ -33,7 +33,7 @@ To run this application, you need to first clone the getting-started-with-the-do
 
 ## Precision
 
-The .NET MAUI Rating control supports precise ratings to handle full, [half](https://help.syncfusion.com/maui/rating/precision-mode#half), or [exact](https://help.syncfusion.com/maui/rating/precision-mode#exact) values.
+The .NET MAUI Rating control supports precise ratings to handle full, [half](https://help.syncfusion.com/maui/rating/precision-mode#half?utm_source=github&utm_medium=listing&utm_campaign=maui-rating-github-samples), or [exact](https://help.syncfusion.com/maui/rating/precision-mode#exact?utm_source=github&utm_medium=listing&utm_campaign=maui-rating-github-samples) values.
 
 ## Rating shapes
 
@@ -49,13 +49,13 @@ The .NET MAUI Rating control supports customizing the item color, item border co
 
 ## Related links
 [Learn More about .NET MAUI Rating](https://www.syncfusion.com/maui-controls/maui-rating?utm_source=github&utm_medium=listing&utm_campaign=maui-rating-github-samples)
-[Download Free Trial](https://www.syncfusion.com/downloads/maui/confirm?utm_source=github&utm_medium=listing&utm_campaign=maui-rating-github-samples)
-[Pricing](https://www.syncfusion.com/sales/teamlicense?utm_source=github&utm_medium=listing&utm_campaign=maui-rating-github-samples)
+[Download Free Trial](https://www.syncfusion.com/downloads/maui?utm_source=github&utm_medium=listing&utm_campaign=maui-rating-github-samples)
+[Pricing](https://www.syncfusion.com/sales/teamlicense)
 [Documentation](https://help.syncfusion.com/maui/rating/getting-started?utm_source=github&utm_medium=listing&utm_campaign=maui-rating-github-samples)
 [View Demos](https://github.com/syncfusion/maui-demos/tree/master/MAUI/Inputs/SampleBrowser.Maui.Inputs/Samples/Rating?utm_source=github&utm_medium=listing&utm_campaign=maui-rating-github-samples)
-[Community Forums](https://www.syncfusion.com/forums/maui?control=rating?utm_source=github&utm_medium=listing&utm_campaign=maui-rating-github-samples)
-[Suggest a feature or report a bug](https://www.syncfusion.com/feedback/maui?control=sfrating?utm_source=github&utm_medium=listing&utm_campaign=maui-rating-github-samples)
-[Online example](https://github.com/SyncfusionExamples/https://github.com/SyncfusionExamples/getting-started-with-the-dotnet-maui-rating-control?utm_source=github&utm_medium=listing&utm_campaign=maui-rating-github-samples)
+[Community Forums](https://www.syncfusion.com/forums/maui?control=rating)
+[Suggest a feature or report a bug](https://www.syncfusion.com/feedback/maui?control=sfrating)
+[Online example](https://github.com/SyncfusionExamples/getting-started-with-the-dotnet-maui-rating-control?utm_source=github&utm_medium=listing&utm_campaign=maui-rating-github-samples)
 
 ## About Syncfusion .NET MAUI Rating Control
 The Syncfusion's [.NET MAUI Rating Control](https://www.syncfusion.com/maui-controls/maui-rating?utm_source=github&utm_medium=listing&utm_campaign=maui-rating-github-samples) library offers over 65 UI controls to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to Rating, we provide popular Blazor Components such as [DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid?utm_source=github&utm_medium=listing&utm_campaign=maui-rating-github-samples), [Charts](https://www.syncfusion.com/blazor-components/blazor-charts?utm_source=github&utm_medium=listing&utm_campaign=maui-rating-github-samples), [Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler?utm_source=github&utm_medium=listing&utm_campaign=maui-rating-github-samples), [Diagram](https://www.syncfusion.com/blazor-components/blazor-diagram?utm_source=github&utm_medium=listing&utm_campaign=maui-rating-github-samples), and [Word Processor](https://www.syncfusion.com/blazor-components/blazor-word-processor?utm_source=github&utm_medium=listing&utm_campaign=maui-rating-github-samples).
